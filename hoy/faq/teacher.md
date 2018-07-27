@@ -32,7 +32,7 @@ Als een ouder/leerling de app niet heeft geïnstalleerd, krijgt hij/zij automati
 Op dit moment ligt de focus op de verdere ontwikkeling van de mobiele app 📱, en is het niet mogelijk om hoy via webbrowser of tablet te gebruiken. Mocht je hier behoefte aan hebben, dan horen we het natuurlijk wel graag!
 
 # Ik zie de leerlingen uit mijn mentorklas niet als ontvanger verschijnen?
-Er is een leerlingenversie van de hoy app beschikbaar, maar het is aan de school(beheerder) of zij naast ouders ook leerlingen voor de hoy app willen uitnodigen 👧🧒. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met jou en de school (al dan niet via de "klassenapp") en hun rooster inzien.
+Er is een leerlingenversie van de hoy app beschikbaar, maar het is aan de school(beheerder) of zij naast ouders ook leerlingen voor de hoy app willen uitnodigen 👧 🧒. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met jou en de school (al dan niet via de "klassenapp") en hun rooster inzien.
 
 # Er is geen wachtwoord nodig, is dat wel veilig?
 Jazeker. We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app zal je - in plaats van het invoeren van een wachtwoord - moeten bevestigen dat je toegang hebt tot dat e-mailadres, door binnen een paar minuten een mail te openen en op een link te klikken 🔗. Zo heb je één wachtwoord minder!
