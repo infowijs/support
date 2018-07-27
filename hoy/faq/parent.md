@@ -17,7 +17,7 @@ We willen dat zowel de school als jij er zeker van kunnen zijn dat de berichten 
 Onder het tabblad 'Taken' in de app vind je een kopje 'Afgeronde taken'. Als je op een taak tikt, krijg je de antwoorden te zien die je eerder hebt ingevuld.
 
 # Kan mijn kind ook toegang krijgen tot de hoy app?
-Er is een leerlingenversie van de hoy app beschikbaar. Het is aan de school of zij de leerlingen ook voor de hoy app willen uitnodigen 👧🧒. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met de mentor en school (al dan niet via de "klassenapp") en hun rooster inzien.
+Er is een leerlingenversie van de hoy app beschikbaar. Het is aan de school of zij de leerlingen ook voor de hoy app willen uitnodigen 👧. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met de mentor en school (al dan niet via de "klassenapp") en hun rooster inzien.
 
 # Vervangt de app andere kanalen voor mij als ouder?
 Het contact via de hoy app is erg direct en laagdrempelig; wij snappen ook dat je korte lijntjes wil wanneer het om je kind gaat. Uiteindelijk is het aan de school in hoeverre de oudercommunicatie ook nog via andere kanalen blijft verlopen. In de meeste gevallen is het niet meer nodig om per e-mail contact te hebben 🧐. Daarnaast verschijnt het schoolnieuws van social media automatisch in de app, naast ander nieuws die de school in de app publiceert.
