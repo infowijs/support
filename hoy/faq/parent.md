@@ -31,7 +31,7 @@ Het contact via de hoy app is erg direct en laagdrempelig; wij snappen ook dat u
 # Ben ik dan altijd bereikbaar voor de school?
 Nee, ook wij snappen dat u in het weekend of ‘s avonds liever niet gestoord wil worden 😌. Daarom kunt u in de app aangeven op welke dagen en tijden u geen notificaties wil ontvangen.
 
-# Mijn smartphone is te oud / Ik heb geen (iOS/Android) smartphone, en kan daardoor de app niet installeren. Kan ik de hoy app alsnog gebruiken?”
+# Ik kan de hoy app niet installeren (te weinig ruimte, te oude smartphone). Kan ik de hoy app alsnog gebruiken?
 De hoy app is niet op andere manieren beschikbaar. Wel krijgt u de berichten en taken die door de school en mentor naar u worden verstuurd per e-mail te zien ✉️ Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de hoy app.
 
 # Er is geen wachtwoord nodig, is dat wel veilig?
