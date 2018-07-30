@@ -1,5 +1,5 @@
 # Met wie kan ik contact opnemen via de app?
-Je kan een vraag stellen aan het centrale contactpersoon van de school, bijvoorbeeld over meer praktische zaken. Ook kan je contact opnemen met de mentor.
+Je kan een vraag stellen aan het centrale contactpersoon van de school, bijvoorbeeld over meer praktische zaken. Daarnaast kan je contact opnemen met de mentor.
 
 # Kan ik ook contact opnemen met andere medewerkers van de school?
 Mentoren worden automatisch aan de ouders en leerlingen van hun mentorklassen gekoppeld. De school kan daarnaast ook andere docenten en medewerkers als ontvangers voor bepaalde groepen ouders en leerlingen toevoegen.
@@ -15,6 +15,12 @@ We willen dat zowel de school als jij er zeker van kunnen zijn dat de berichten 
 
 # Waarom kan ik geen gesprekken met andere leerlingen starten?
 De app is bedoeld om het contact tussen de school en ouders/leerlingen te versimpelen 😌. De communicatie tussen leerlingen laten we graag over aan apps als Whatsapp of Snapchat.
+
+# Staat mijn hele rooster in de app?
+We hebben de app gekoppeld met de roosteromgeving van de school. Op basis van jouw (school)e-mailadres halen we je rooster op. Klopt er iets niet? Laat het ons weten!
+
+# Kan ik ook mijn roosterwijzigingen zien?
+Je rooster in de app is altijd up to date. We werken momenteel hard om de wijzigingen zo overzichtelijk mogelijk voor je op een rijtje te zetten 🗓.
 
 # Wat kunnen mijn ouders met de hoy app?
 In ieder geval één van je ouders wordt door de school voor de app uitgenodigd 🙋‍♀️. Zij kunnen ook het nieuws volgen, communiceren met de mentor en school en daarnaast formulieren invullen en oudergesprekken inplannen.
