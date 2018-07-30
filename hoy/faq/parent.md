@@ -1,5 +1,5 @@
 # Met wie kan ik contact opnemen via de app?
-Je kan een vraag stellen aan het centrale contactpersoon van de school, bijvoorbeeld over meer praktische zaken. Ook kan je contact opnemen met de mentor over je kind(eren).
+Je kan een vraag stellen aan het centrale contactpersoon van de school, bijvoorbeeld over meer praktische zaken. Daarnaast kan je contact opnemen met de mentor over je kind(eren).
 
 # Kan ik ook contact opnemen met andere medewerkers van de school?
 Mentoren worden automatisch aan de ouders en leerlingen van hun mentorklassen gekoppeld. De school kan daarnaast ook andere docenten en medewerkers als ontvangers voor bepaalde groepen ouders en leerlingen toevoegen. Wil je vaker contact hebben met een bepaalde medewerker via de app? Vraag dit aan door een berichtje naar de school(beheerder) te sturen.
