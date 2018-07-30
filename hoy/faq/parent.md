@@ -8,10 +8,10 @@ Mentoren worden automatisch aan de ouders en leerlingen van hun mentorklassen ge
 Als je naar het tabblad 'Inbox' gaat in de app, vind je rechtsboven een knop waarmee je een nieuw gesprek start 💬. Hier kan je vervolgens kiezen met wie je dit gesprek wil starten, en wat het onderwerp van het nieuwe gesprek wordt.
 
 # Mijn gesprek is gearchiveerd, hoe kan ik alsnog een antwoord sturen?
-Omdat we je berichteninbox en die van de mentor en school zo overzichtelijk mogelijk willen houden, heeft iedereen de mogelijkheid om gesprekken en mededelingen te archiveren. Het kan zijn dat je niet meer kan reageren op een gesprek omdat de mentor of school deze al heeft gearchiveerd. Zo blijft het voor hen overzichtelijk welke vragen al zijn beantwoord. Archiveer deze zelf dan ook (swipe naar links in de inbox of druk op het 'archiveer'-icoontje rechtsboven in het bericht 📥) en begin een nieuw gesprek!
+Omdat we je berichteninbox en die van de mentor en school zo overzichtelijk mogelijk willen houden, heeft iedereen de mogelijkheid om gesprekken en mededelingen te archiveren. Het kan zijn dat je niet meer kan reageren op een gesprek omdat de mentor of school deze al heeft gearchiveerd. Zo blijft het voor hen overzichtelijk welke vragen al zijn beantwoord. Archiveer deze zelf dan ook (swipe naar links in de inbox of druk op het 'archiveer'-icoontje rechtsboven in het bericht 📥) en begin evt. een nieuw gesprek!
 
 # Waarom ontvang ik ook mails van bepaalde berichten en taken?
-We willen dat zowel de school als jij er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt of een bericht/taak niet heeft gezien, alsnog een mailtje. Als je het bericht gewoon hebt gezien, kan je deze mail verder negeren.
+We willen dat zowel de school als jij er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt of een bericht/taak niet heeft gezien, alsnog een mailtje 📬. Als je het bericht gewoon hebt gezien, kan je deze mail verder negeren.
 
 # Waar kan ik mijn antwoorden op taken terugzien?
 Onder het tabblad 'Taken' in de app vind je een kopje 'Afgeronde taken'. Als je op een taak tikt, krijg je de antwoorden te zien die je eerder hebt ingevuld.
@@ -43,4 +43,4 @@ Hoe vervelend dit ook is, dit komt wel eens voor omdat er vanuit hoy veel automa
 # Hoe wordt mijn privacy gewaarborgd?
 We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de gegevens die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
 
-Bent u benieuwd naar onze maatregelen, of heeft u een vraag over uw privacy? Laat het ons weten!
+Ben je benieuwd naar onze maatregelen, of heb je een vraag over je privacy? Laat het ons weten!
