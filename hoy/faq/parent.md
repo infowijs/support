@@ -16,6 +16,13 @@ We willen dat zowel de school als jij er zeker van kunnen zijn dat de berichten 
 # Waar kan ik mijn antwoorden op taken terugzien?
 Onder het tabblad 'Taken' in de app vind je een kopje 'Afgeronde taken'. Als je op een taak tikt, krijg je de antwoorden te zien die je eerder hebt ingevuld.
 
+# Ik zie dat ik het secundaire contact voor de school ben, wat betekent dit?
+De ouder/verzorger die in de schooladministratie staat geregistreerd als ouder 1, fungeert als het **primaire contact** voor de school en mentor. Dat betekent dat diegene de algemene berichten ontvangt, bijvoorbeeld voor ouders van een jaarlaag of klas. 
+
+Als je ouder 2 bent en ouder 1 heeft de app ook in gebruik genomen, ben je het **secundaire contact**. Je ontvangt geen algemene berichten, maar kan alsnog zelf een gesprek starten met de school en mentor. Daarnaast zie je al het nieuws en kan je formulieren invullen voor je kind(eren) wanneer dat nodig is.
+
+Als je wel het primaire contact wil zijn, moet in de schooladministratie worden geregistreerd als ouder1. 👪
+
 # Kan mijn kind ook toegang krijgen tot de hoy app?
 Er is een leerlingenversie van de hoy app beschikbaar. Het is aan de school of zij de leerlingen ook voor de hoy app willen uitnodigen 👧. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met de mentor en school (al dan niet via de "klassenapp") en hun rooster inzien.
 
