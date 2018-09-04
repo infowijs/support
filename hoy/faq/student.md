@@ -31,6 +31,9 @@ Wij snappen dat je niet de hele dag bereikbaar wil zijn. Daarom kan je in de Ins
 # Ik kan de app niet installeren (te weinig ruimte, te oude smartphone). Kan ik de app alsnog gebruiken?
 De hoy app is niet op andere manieren beschikbaar. Wel krijg je de berichten die door de school en mentor naar je worden verstuurd per e-mail te zien ✉️ Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de app.
 
+# Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
+Geen zorgen, je kan de mail ook op een ander device openen 😌 Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook.
+
 # Er is geen wachtwoord nodig, is dat wel veilig?
 Jazeker. We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app zal je - in plaats van het invoeren van een wachtwoord - moeten bevestigen dat je toegang hebt tot dat e-mailadres, door binnen een paar minuten een mail te openen en op een link te klikken 🔗. Zo heb je één wachtwoord minder!
 
