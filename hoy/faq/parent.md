@@ -36,13 +36,13 @@ Nee, ook wij snappen dat je in het weekend of ‘s avonds liever niet gestoord w
 Wij snappen dat je niet de hele dag bereikbaar wil zijn. Daarom kan je in de Instellingen bij 'Notificaties' aangeven op welke dagen en/of tijden je geen berichten wil ontvangen. Heb je ingevuld dat je tot het einde van de dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
 # Ik kan de app niet installeren (te weinig ruimte, te oude smartphone). Kan ik de app alsnog gebruiken?
-De hoy app is niet op andere manieren beschikbaar. Wel krijg je de berichten en taken die door de school en mentor naar je worden verstuurd per e-mail te zien ✉️ Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de app.
+De hoy app is niet op andere manieren beschikbaar. Wel krijg je de berichten en taken die door de school en mentor naar je worden verstuurd per e-mail te zien ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de app.
 
 # Ik kan PDFjes niet openen in de app, wat nu?
-Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunnen doen. Je kan proberen de firmware van je telefoon te updaten om dit probleem te verhelpen. Mocht dit niet werken, dan kan je altijd de link ingedrukt houden om het linkadres te kopiëren. Als je die daarna in je browser plakt, zou je het PDFje wel moeten kunnen zien.
+Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunnen doen. Je kan proberen de firmware van je telefoon te updaten om dit probleem te verhelpen. Mocht dit niet werken, dan kan je altijd de link ingedrukt houden om het linkadres te kopiëren. Als je die daarna in je browser plakt, zou je het PDFje wel moeten kunnen zien 📄📲.
 
 # Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
-Geen zorgen, je kan de mail ook op een ander device openen 😌 Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook.
+Geen zorgen, je kan de mail ook op een ander device openen 😌. Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe mail gestuurd.
 
 # Er is geen wachtwoord nodig, is dat wel veilig?
 Jazeker. We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app zal je - in plaats van het invoeren van een wachtwoord - moeten bevestigen dat je toegang hebt tot dat e-mailadres, door binnen een paar minuten een mail te openen en op een link te klikken 🔗. Zo heb je één wachtwoord minder!
