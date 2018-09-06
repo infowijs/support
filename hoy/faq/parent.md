@@ -39,7 +39,7 @@ Wij snappen dat je niet de hele dag bereikbaar wil zijn. Daarom kan je in de Ins
 De hoy app is niet op andere manieren beschikbaar. Wel krijg je de berichten en taken die door de school en mentor naar je worden verstuurd per e-mail te zien ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de app.
 
 # Ik kan PDFjes niet openen in de app, wat nu?
-Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunnen doen. Je kan proberen de firmware van je telefoon te updaten om dit probleem te verhelpen. Mocht dit niet werken, dan kan je altijd de link ingedrukt houden om het linkadres te kopiëren. Als je die daarna in je browser plakt, zou je het PDFje wel moeten kunnen zien 📄📲.
+Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunnen doen. Je kan proberen Android te updaten om dit probleem te verhelpen. Mocht dit niet werken, dan kan je altijd de link ingedrukt houden om het linkadres te kopiëren. Als je die daarna in je browser plakt, zou je het PDFje wel moeten kunnen zien 📄📲.
 
 # Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
 Geen zorgen, je kan de mail ook op een ander device openen 😌. Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe mail gestuurd.
