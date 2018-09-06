@@ -19,7 +19,7 @@ Onder het tabblad 'Taken' in de app vind je een kopje 'Afgeronde taken'. Als je 
 # Ik zie dat ik het secundaire contact voor de school ben, wat betekent dit?
 De ouder/verzorger die in de schooladministratie staat geregistreerd als ouder 1, fungeert als het **primaire contact** voor de school en mentor. Dat betekent dat diegene hoe dan ook de algemene berichten ontvangt, bijvoorbeeld voor ouders van een jaarlaag of klas. 
 
-Als je ouder 2 in de schooladministratie bent en ouder 1 heeft de app ook in gebruik genomen, ben je het **secundaire contact**. Het is aan de school en mentor of ze de algemene berichten alleen naar primaire contacten of ook naar secundaire contacten sturen. Daarnaast kan je net als het primaiare contact ook gewoon een gesprek starten met de school en mentor, zie je al het nieuws en kan je formulieren invullen voor je kind(eren) wanneer dat nodig is.
+Als je ouder 2 in de schooladministratie bent en ouder 1 heeft de app ook in gebruik genomen, ben je het **secundaire contact**. Het is aan de school en mentor of ze de algemene berichten alleen naar primaire contacten of ook naar secundaire contacten sturen. Daarnaast kan je net als het primaire contact ook gewoon een gesprek starten met de school en mentor, zie je al het nieuws en kan je formulieren invullen voor je kind(eren) wanneer dat nodig is.
 
 Als je wel het primaire contact wil zijn, moet in de schooladministratie worden geregistreerd als ouder 1. 👪
 
@@ -37,6 +37,9 @@ Wij snappen dat je niet de hele dag bereikbaar wil zijn. Daarom kan je in de Ins
 
 # Ik kan de app niet installeren (te weinig ruimte, te oude smartphone). Kan ik de app alsnog gebruiken?
 De hoy app is niet op andere manieren beschikbaar. Wel krijg je de berichten en taken die door de school en mentor naar je worden verstuurd per e-mail te zien ✉️ Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de app.
+
+# Ik kan PDFjes niet openen in de app, wat nu?
+Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunnen doen. Je kan proberen de firmware van je telefoon te updaten om dit probleem te verhelpen. Mocht dit niet werken, dan kan je altijd de link ingedrukt houden om het linkadres te kopiëren. Als je die daarna in je browser plakt, zou je het PDFje wel moeten kunnen zien.
 
 # Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
 Geen zorgen, je kan de mail ook op een ander device openen 😌 Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook.
