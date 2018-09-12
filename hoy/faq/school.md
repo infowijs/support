@@ -38,12 +38,15 @@ De hoy app is op dit moment niet op andere manieren beschikbaar - we willen er z
 
 Ouders die de app op hun smartphone niet gebruiken ontvangen de berichten en taken die naar ze worden gestuurd gewoon per mail ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de mail te beantwoorden en komen gewoon bij de schoolbeheerder aan in het schooldashboard en bij mentoren in de app.
 
+# Hoe werkt de synchronisatie van hoy met onze schooladministratie?
+De hoy app is gekoppeld met jullie schooladministratie 📑 (Magister of Somtoday). Elke nacht worden de wijzigingen gesynchroniseerd, zodat er geen dubbele administratie nodig is. Bij Instellingen is te zien wanneer dit voor het laatst is gebeurd.
+
+Leerlingen (en daarmee hun ouders) die niet meer op actief staan, worden automatisch uit de hoy app verwijderd.
+
 # Hoe wordt de privacy gewaarborgd?
 We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de gegevens die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
 
 Ben je benieuwd naar onze maatregelen, of heb je een vraag over je privacy? Laat het ons weten!
 
-# Hoe werkt de synchronisatie van hoy met onze schooladministratie?
-De hoy app is gekoppeld met jullie schooladministratie 📑 (Magister of Somtoday). Elke nacht worden de wijzigingen gesynchroniseerd, zodat er geen dubbele administratie nodig is. Bij Instellingen is te zien wanneer dit voor het laatst is gebeurd.
-
-Leerlingen (en daarmee hun ouders) die niet meer op actief staan, worden automatisch uit de hoy app verwijderd.
+# Is er ook een Veelgestelde Vragen voor ouders en mentoren?
+Er is ook een Veelgestelde Vragen beschikbaar voor ouders (https://hoy.app/faq/parent) en mentoren (https://hoy.app/faq/teacher). Deze kunnen ouders en mentoren inzien in de app, via de uitnodiging voor de app of via de website van de hoy app.
