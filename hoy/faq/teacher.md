@@ -1,6 +1,9 @@
 # Met wie kan ik contact opnemen via de app?
 Als je een mentor bent, kan je sowieso contact opnemen met de ouders van je mentorklas. Indien de school ook leerlingen voor de hoy app heeft uitgenodigd, kan je natuurlijk ook berichten sturen naar je leerlingen. Als je geen mentor bent of naast je mentorklas ook met andere groepen ouders/leerlingen contact wil hebben via de hoy app, kan de school je aan deze groepen koppelen. Dit dien je aan te vragen bij de schoolbeheerder van de hoy app.
 
+# Ik zie niet (ouders van) alle leerlingen uit mijn klas in mijn lijst met ontvangers. Hoe komt dit?
+Een ouder kan helaas niet voor de hoy app worden uitgenodigd als er geen e-mailadres bekend is in jullie schooladministratie en staat dan ook niet in de lijst met ontvangers. Dit is simpel op te lossen door het e-mailadres van in ieder geval één ouder toe te voegen in de schooladministratie. hoy wordt elke nacht gesynchroniseerd, waarna deze ouders kunnen worden uitgenodigd 🙌.
+
 # Hoe begin ik een gesprek of stuur ik een mededeling uit?
 Als je naar het tabblad 'Inbox' gaat in de app, vind je rechtsboven een knop waarmee je een nieuw bericht aanmaakt 💬. Hier kan je vervolgens kiezen of het bericht een gesprek moet zijn of een eenzijdige mededeling (waarop niet kan worden gereageerd door de ontvangers).
 
