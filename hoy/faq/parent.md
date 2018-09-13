@@ -44,6 +44,9 @@ Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunn
 # Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
 Geen zorgen, je kan de mail ook op een ander device openen 😌. Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe mail gestuurd.
 
+# Is de app ook op tablet (iPad of Android) beschikbaar?
+De app is ook op tablet te gebruiken. Je kan de uitnodigingsmail gewoon op je iPad of Android tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
+
 # Er is geen wachtwoord nodig, is dat wel veilig?
 Jazeker. We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app zal je - in plaats van het invoeren van een wachtwoord - moeten bevestigen dat je toegang hebt tot dat e-mailadres, door binnen een paar minuten een mail te openen en op een link te klikken 🔗. Zo heb je één wachtwoord minder!
 
