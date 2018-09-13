@@ -27,11 +27,14 @@ Zeven dagen na de originele uitnodiging ontvangen ouders die nog niet op de app 
 # Om op de app in te loggen is er geen wachtwoord nodig, is dat wel veilig?
 Jazeker. We koppelen de gebruikers aan de e-mailadressen uit de schooladministratie. Wanneer iemand inlogt op de app zal diegene- in plaats van het invoeren van een wachtwoord - moeten bevestigen dat hij/zij toegang heeft tot dat e-mailadres, door binnen een paar minuten een mail te openen en op een link te klikken 🔗. Zo is er weer één wachtwoord minder!
 
+# Wat gebeurt er als ik het e-mailadres van een ouder aanpas in onze schooladministratie? Moet een ouder opnieuw worden uitgenodigd?
+Hier hebben we rekening mee gehouden 🙋‍♂️. Er verandert niets voor de ouders: ze blijven gewoon ingelogd in de app en de volgende keer dat ze willen inloggen (bijv. op een ander apparaat), kunnen ze dat doen via hun nieuwe e-mailadres.
+
 # Een ouder kan via zijn/haar smartphone niet bij de inlogmail. Wat nu?
 Geen zorgen, ouders kunnen die mail ook op een ander device openen 😌. Zolang ze de app op de smartphone open houden, worden ze gewoon ingelogd als ze op de link in de mail klikken. Vanaf welk device dan ook. Elke keer dat ze proberen in te loggen, wordt er een nieuwe mail gestuurd.
 
 # Worden er mails gestuurd naar ouders die de app niet in gebruik hebben? Hoe werkt dat?
-Ja, we willen dat jullie er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt (10 dagen) of een bericht/taak niet heeft gezien (na 3 dagen), alsnog een mailtje 📬. In de meeste gevallen zijn deze berichten en taken ook via de mail te beantwoorden of in te vullen.
+Ja, we willen dat jullie er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt (10 dagen) of een bericht/taak niet heeft gezien (na 3 dagen), alsnog een mailtje 📬. In de meeste gevallen zijn deze berichten en taken ook via de mail te beantwoorden of in te vullen. Let op: hiervoor moet een 
 
 # Is de app voor mentoren of ouders ook op tablet beschikbaar?
 De app is ook op tablet (iPad of Android tablets) te gebruiken. Ouders en mentoren kunnen de uitnodigingsmail gewoon op tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
