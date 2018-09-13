@@ -33,7 +33,7 @@ Geen zorgen, ouders kunnen die mail ook op een ander device openen 😌. Zolang 
 # Worden er mails gestuurd naar ouders die de app niet in gebruik hebben? Hoe werkt dat?
 Ja, we willen dat jullie er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt (10 dagen) of een bericht/taak niet heeft gezien (na 3 dagen), alsnog een mailtje 📬. In de meeste gevallen zijn deze berichten en taken ook via de mail te beantwoorden of in te vullen.
 
-# Is de app voor ouders of mentoren ook op iPad of laptop beschikbaar?
+# Is de app voor ouders of mentoren ook op tablet of laptop beschikbaar?
 De hoy app is op dit moment niet op andere manieren beschikbaar - we willen er zeker van zijn dat ouders en mentoren notificaties ontvangen. We werken wel aan een andere oplossing zodat berichten via laptop zijn te beantwoorden, waarvoor je de app in gebruik moet hebben.
 
 Ouders die de app op hun smartphone niet gebruiken ontvangen de berichten en taken die naar ze worden gestuurd gewoon per mail ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de mail te beantwoorden en komen gewoon bij de schoolbeheerder aan in het schooldashboard en bij mentoren in de app.
