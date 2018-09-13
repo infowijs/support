@@ -41,7 +41,7 @@ Er is een leerlingenversie van de hoy app beschikbaar, maar het is aan de school
 Geen zorgen, je kan de mail ook op een ander device openen 😌 Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook.
 
 # Is de app ook op tablet of laptop beschikbaar?
-De hoy app is op dit moment alleen voor smartphone ontwikkeld. Wel is de smartphone versie ook op tablet (iPad of Android) te gebruiken, wat betekent dat alles wat wordt uitvergroot. Je kan de uitnodigingsmail gewoon op tablet openen en de app daar installeren. We werken daarnaast aan een manier om berichten via laptop te beantwoorden, maar daarvoor moet de app wel in gebruik zijn.
+De app is ook op tablet (iPad of Android tablets) te gebruiken. Je kan de uitnodigingsmail gewoon op tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
 
 Ouders die de app niet gebruiken ontvangen de berichten en taken die naar ze worden gestuurd gewoon per mail ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de mail te beantwoorden en komen gewoon bij jou aan in de app.
 
