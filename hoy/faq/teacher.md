@@ -31,8 +31,10 @@ Het contact via de hoy app is erg direct en laagdrempelig, daarmee is communicat
 # Wat als een ouder/leerling de app niet heeft geïnstalleerd, of niet wil installeren?
 Als een ouder/leerling de app niet heeft geïnstalleerd, krijgt hij/zij automatisch een e-mail ✉️ De berichten en taken die je uitstuurt, zijn door de ouder/leerling namelijk ook te beantwoorden per e-mail en komen gewoon bij jou aan in de app. We zouden je wel willen vragen het gebruik van de app onder ouders/leerlingen te stimuleren.
 
-# Ik installeer hoy liever niet op mijn privé telefoon. Kan ik ook mijn laptop of tablet gebruiken?
-Op dit moment ligt de focus op de verdere ontwikkeling van de mobiele app 📱, en is het niet mogelijk om hoy via webbrowser of tablet te gebruiken. Mocht je hier behoefte aan hebben, dan horen we het natuurlijk wel graag!
+# Is de app ook op tablet (iPad of Android) beschikbaar?
+De app is ook op tablet te gebruiken. Je kan de uitnodigingsmail gewoon op je iPad of Android tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
+
+Ouders die de app niet gebruiken ontvangen de berichten en taken die naar ze worden gestuurd gewoon per mail ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de mail te beantwoorden en komen gewoon bij jou aan in de app.
 
 # Ik zie de leerlingen uit mijn mentorklas niet als ontvanger verschijnen?
 Er is een leerlingenversie van de hoy app beschikbaar, maar het is aan de school(beheerder) of zij naast ouders ook leerlingen voor de hoy app willen uitnodigen 👧. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met jou en de school (al dan niet via de "klassenapp") en hun rooster inzien.
@@ -40,7 +42,7 @@ Er is een leerlingenversie van de hoy app beschikbaar, maar het is aan de school
 # Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
 Geen zorgen, je kan de mail ook op een ander device openen 😌 Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook.
 
-# Is de app ook op tablet of laptop beschikbaar?
+# Is de app ook op tablet beschikbaar?
 De app is ook op tablet (iPad of Android tablets) te gebruiken. Je kan de uitnodigingsmail gewoon op tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
 
 Ouders die de app niet gebruiken ontvangen de berichten en taken die naar ze worden gestuurd gewoon per mail ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de mail te beantwoorden en komen gewoon bij jou aan in de app.
