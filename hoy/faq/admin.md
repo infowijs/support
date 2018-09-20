@@ -34,7 +34,7 @@ Hier hebben we rekening mee gehouden 🙋‍♂️. Er verandert niets voor de o
 Geen zorgen, ouders kunnen die mail ook op een ander device openen 😌. Zolang ze de app op de smartphone open houden, worden ze gewoon ingelogd als ze op de link in de mail klikken. Vanaf welk device dan ook. Elke keer dat ze proberen in te loggen, wordt er een nieuwe mail gestuurd.
 
 # Worden er mails gestuurd naar ouders die de app niet in gebruik hebben? Hoe werkt dat?
-Ja, we willen dat jullie er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt (10 dagen) of een bericht/taak niet heeft gezien (na 3 dagen), alsnog een mailtje 📬. In de meeste gevallen zijn deze berichten en taken ook via de mail te beantwoorden of in te vullen. Let op: hiervoor moet een 
+Ja, we willen dat jullie er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt (14 dagen) of een bericht/taak niet heeft gezien (na 3 dagen), alsnog een mailtje 📬. In de meeste gevallen zijn deze berichten en taken ook via de mail te beantwoorden of in te vullen. Let op: hiervoor moet een 
 
 # Is de app voor mentoren of ouders ook op tablet beschikbaar?
 De app is ook op tablet (iPad of Android tablets) te gebruiken. Ouders en mentoren kunnen de uitnodigingsmail gewoon op tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
