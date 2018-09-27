@@ -1,3 +1,5 @@
+Hoy is de app voor communicatie tussen jou als ouder/verzorger en de school. Via deze app blijf je up-to-date van al het nieuws in en rondom school. 
+
 # Met wie kan ik contact opnemen via de app?
 Je kan een vraag stellen aan het centrale contactpersoon van de school, bijvoorbeeld over meer praktische zaken. Daarnaast kan je contact opnemen met de mentor over je kind(eren).
 
