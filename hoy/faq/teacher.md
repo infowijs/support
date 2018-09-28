@@ -8,7 +8,7 @@ Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tab
 We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app, bevestig je dat je toegang hebt tot dat e-mailadres: je vult het adres in en ontvangt direct een mail met een link waarop je moet klikken 🔗. Zo heb je één wachtwoord minder!
 
 # De e-mails van hoy komen in mijn spambox, wat nu?
-Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van hoy er vanuit hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
+Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
 
 # Ik kan via mijn smartphone/tablet niet bij mijn e-mail. Wat nu?
 Geen zorgen, je kan de e-mail ook op een ander device openen 😌. Zolang je de app op je smartphone/tablet open houdt, word je gewoon ingelogd als je op de link in de e-mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe e-mail gestuurd.
