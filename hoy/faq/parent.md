@@ -1,64 +1,58 @@
-Hoy is de app voor communicatie tussen jou als ouder/verzorger en de school. Via deze app blijf je up-to-date van al het nieuws in en rondom school. 
+# Wat is de hoy app?
+Hoy is de app voor communicatie tussen jou als ouder/verzorger en de school. Via deze app blijf je up-to-date van al het nieuws in en rondom school 📲.
+
+# Op welke apparaten kan ik de app installeren?
+Je kan de app installeren op je smartphone (iPhone of Androidtelefoon) of tablet (iPad of Androidtablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en taken die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De taken zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
+
+# Hoe kan ik inloggen?
+We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app, bevestig je dat je toegang hebt tot dat e-mailadres: je vult het adres in en ontvangt direct een mail met een link waarop je moet klikken 🔗. Zo heb je één wachtwoord minder!
+
+# De e-mails van hoy komen in mijn spambox, wat nu?
+Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van hoy  er vanuit hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
+
+# Ik kan via mijn smartphone/tablet niet bij mijn e-mail. Wat nu?
+Geen zorgen, je kan de e-mail ook op een ander device openen 😌. Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de e-mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe e-mail gestuurd.
 
 # Met wie kan ik contact opnemen via de app?
-Je kan een vraag stellen aan het centrale contactpersoon van de school, bijvoorbeeld over meer praktische zaken. Daarnaast kan je contact opnemen met de mentor over je kind(eren).
+Via de app kan je een vraag stellen aan het centrale contactpersoon van de school over praktische zaken. Daarnaast kan je contact opnemen met de mentor van je kind. Eventueel zijn er ook andere contactpersonen beschikbaar (bijv. een leerjaarcoördinator of decaan), als de school deze aan je heeft toegewezen.
 
-# Kan ik ook contact opnemen met andere medewerkers van de school?
-Mentoren worden automatisch aan de ouders en leerlingen van hun mentorklassen gekoppeld. De school kan daarnaast ook andere docenten en medewerkers als ontvangers voor bepaalde groepen ouders en leerlingen toevoegen. Wil je vaker contact hebben met een bepaalde medewerker via de app? Vraag dit aan door een berichtje naar de school(beheerder) te sturen.
+Om een gesprek te starten via de app, ga je naar het derde tabblad (Inbox). Hier vind je rechtsboven een icoontje waarmee je een nieuw gesprek start 💬.
 
-# Hoe begin ik een gesprek?
-Als je naar het tabblad 'Inbox' gaat in de app, vind je rechtsboven een knop waarmee je een nieuw gesprek start 💬. Hier kan je vervolgens kiezen met wie je dit gesprek wil starten, en wat het onderwerp van het nieuwe gesprek wordt.
+# Hoe archiveer ik een bericht?
+Je archiveert een bericht door naar links te swipen in de inbox of door in het bericht op het 'archiveer'-icoontje rechtsboven te tikken 📥.
 
-# Mijn gesprek is gearchiveerd, hoe kan ik alsnog een antwoord sturen?
-Omdat we je berichteninbox en die van de mentor en school zo overzichtelijk mogelijk willen houden, heeft iedereen de mogelijkheid om gesprekken en mededelingen te archiveren. Het kan zijn dat je niet meer kan reageren op een gesprek omdat de mentor of school deze al heeft gearchiveerd. Zo blijft het voor hen overzichtelijk welke vragen al zijn beantwoord. Archiveer deze zelf dan ook (swipe naar links in de inbox of druk op het 'archiveer'-icoontje rechtsboven in het bericht 📥) en begin evt. een nieuw gesprek!
+Als een medewerker van de school een gesprek archiveert, kan je daar later niet meer op reageren. Wil je alsnog een bericht sturen, dan moet je een nieuw gesprek beginnen.
 
-# Waarom ontvang ik ook mails van bepaalde berichten en taken?
-We willen dat zowel de school als jij er zeker van kunnen zijn dat de berichten via hoy aankomen. Juist zo wordt de oudercommunicatie een stuk simpeler. Daarom sturen we elke gebruiker die de app niet in gebruik heeft, de app te lang niet heeft gebruikt of een bericht/taak niet heeft gezien, alsnog een mailtje 📬. Als je het bericht gewoon hebt gezien, kan je deze mail verder negeren.
-
-# Waar kan ik mijn antwoorden op taken terugzien?
-Onder het tabblad 'Taken' in de app vind je een kopje 'Afgeronde taken'. Als je op een taak tikt, krijg je de antwoorden te zien die je eerder hebt ingevuld.
-
-# Ik zie dat ik het secundaire contact voor de school ben, wat betekent dit?
-De ouder/verzorger die in de schooladministratie staat geregistreerd als ouder 1, fungeert als het **primaire contact** voor de school en mentor. Dat betekent dat diegene hoe dan ook de algemene berichten ontvangt, bijvoorbeeld voor ouders van een jaarlaag of klas. 
-
-Als je ouder 2 in de schooladministratie bent en ouder 1 heeft de app ook in gebruik genomen, ben je het **secundaire contact**. Het is aan de school en mentor of ze de algemene berichten alleen naar primaire contacten of ook naar secundaire contacten sturen. Daarnaast kan je net als het primaire contact ook gewoon een gesprek starten met de school en mentor, zie je al het nieuws en kan je formulieren invullen voor je kind(eren) wanneer dat nodig is.
-
-Als je wel het primaire contact wil zijn, moet in de schooladministratie worden geregistreerd als ouder 1. 👪
-
-# Kan mijn kind ook toegang krijgen tot de hoy app?
-Er is een leerlingenversie van de hoy app beschikbaar. Het is aan de school of zij de leerlingen ook voor de hoy app willen uitnodigen 👧. In de app voor leerlingen kunnen ze het nieuws volgen, communiceren met de mentor en school (al dan niet via de "klassenapp") en hun rooster inzien.
-
-# Vervangt de app andere kanalen voor mij als ouder?
-Het contact via de hoy app is erg direct en laagdrempelig; wij snappen ook dat je korte lijntjes wil wanneer het om je kind gaat. Uiteindelijk is het aan de school in hoeverre de oudercommunicatie ook nog via andere kanalen blijft verlopen. In de meeste gevallen is het niet meer nodig om per e-mail contact te hebben 🧐. Daarnaast verschijnt het schoolnieuws van social media automatisch in de app, naast ander nieuws die de school in de app publiceert.
-
-# Ben ik dan altijd bereikbaar voor de school?
-Nee, ook wij snappen dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. Daarom kan je in de app aangeven op welke dagen en tijden je geen notificaties wil ontvangen.
+# Waarom ontvang ik mails van bepaalde berichten en taken?
+Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je als ouder/verzorger niks mist 📬.
 
 # Hoe werkt het "snoozen" van notificaties?
-Wij snappen dat je niet de hele dag bereikbaar wil zijn. Daarom kan je in de Instellingen bij 'Notificaties' aangeven op welke dagen en/of tijden je geen berichten wil ontvangen. Heb je ingevuld dat je tot het einde van de dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
+Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijden je geen notificaties wil ontvangen. Wij snappen ook dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. 
 
-# Ik kan de app niet installeren (te weinig ruimte, te oude smartphone). Kan ik de app alsnog gebruiken?
-De hoy app is niet op andere manieren beschikbaar. Wel krijg je de berichten en taken die door de school en mentor naar je worden verstuurd per e-mail te zien ✉️. Deze berichten en taken zijn in de meeste gevallen ook via de e-mail te beantwoorden en komen gewoon bij de school/mentor aan in de app.
+Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
-# Ik kan PDFjes niet openen in de app, wat nu?
-Helaas is dit een probleem van enkele Android telefoons, waar we weinig aan kunnen doen. Je kan proberen Android te updaten om dit probleem te verhelpen. Mocht dit niet werken, dan kan je altijd de link ingedrukt houden om het linkadres te kopiëren. Als je die daarna in je browser plakt, zou je het PDFje wel moeten kunnen zien 📄📲.
+# Hoe open ik een PDF-bestand?
+Als je een PDF-bestand niet kunt openen zijn er twee opties:
 
-# Bij het inloggen moet ik een mail openen, maar die staat niet op mijn smartphone. Wat nu?
-Geen zorgen, je kan de mail ook op een ander device openen 😌. Zolang je de app op je smartphone open houdt, word je gewoon ingelogd als je op de link in de mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe mail gestuurd.
+1. Je kunt een PDF-reader downloaden via de appstore van je mobiele telefoon. 
+2. Je kunt de link ingedrukt houden om het linkadres te kopiëren. Als je dit linkadres vervolgens plakt in een internetbrowser kun je het PDF-bestand zien 📄📲.
 
-# Is de app ook op tablet (iPad of Android) beschikbaar?
-De app is ook op tablet te gebruiken. Je kan de uitnodigingsmail gewoon op je iPad of Android tablet openen en de app daar installeren, of opzoeken in de App Store of Google Play Store.
+# Kan ik de app op meerdere apparaten gebruiken?
+Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet of telefoon van je partner, dan kan je gewoon inloggen met hetzelfde mailadres. Alle notificaties komen op beide apparaten aan en de berichten en taken worden automatisch gesynchroniseerd ✅.
 
-# Er is geen wachtwoord nodig, is dat wel veilig?
-Jazeker. We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app zal je - in plaats van het invoeren van een wachtwoord - moeten bevestigen dat je toegang hebt tot dat e-mailadres, door binnen een paar minuten een mail te openen en op een link te klikken 🔗. Zo heb je één wachtwoord minder!
+# Ik zie dat ik het secundaire contact voor de school ben, wat betekent dit?
+Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerling. De ouder/verzorger die in de schooladministratie staat geregistreerd als het eerste contact, is in de app het **primaire contact** voor de school en mentor. Dat betekent dat diegene altijd de berichten van de school en mentor ontvangt.
 
-# Hoe kan ik uitloggen in de hoy app?
+Het tweede contact in de schooladministratie, wordt in de app automatisch het **secundaire contact**. De school en mentoren sturen berichten meestal uit naar beide contacten, maar het kan voorkomen dat de school of mentor contact zoekt met één ouder/verzorger. In de app is dat automatisch het primaire contact, tenzij de school of mentor dat anders aangeeft.
+
+Taken komen altijd aan bij beide contacten en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
+
+Als je wil aanpassen wie van de ouders/verzorgers het primaire contact is, moet dit in schooladministratie worden geregistreerd 👪.
+
+# Hoe gaat de app om met mijn privacy?
+We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de persoonsgegevens en data die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
+
+# Hoe kan ik uitloggen?
 Onder het tabblad 'Instellingen' in de app, zie je rechtsboven een slotje 🔒. Als je daarop tikt word je uitgelogd.
 
-# De mails van hoy komen in mijn spambox. Hoe verander ik dit?
-Hoe vervelend dit ook is, dit komt wel eens voor omdat er vanuit hoy veel automatische mails worden verstuurd. Als je deze mails markeert als geen spam, komt deze de volgende keer in je inbox aan. We vinden het daarnaast erg fijn als je dit bij ons meldt zodat we ons mailsysteem kunnen verbeteren.
-
-# Hoe wordt mijn privacy gewaarborgd?
-We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de gegevens die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
-
-Ben je benieuwd naar onze maatregelen, of heb je een vraag over je privacy? Laat het ons weten!
+Ben je benieuwd naar onze maatregelen, of heb je nog andere vragen? Laat het ons weten!
