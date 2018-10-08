@@ -32,10 +32,7 @@ Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijde
 Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
 # Hoe open ik een PDF-bestand?
-Als je een PDF-bestand niet kunt openen zijn er twee opties:
-
-1. Je kunt een PDF-reader downloaden via de appstore van je smartphone/tablet. 
-2. Je kunt de link ingedrukt houden om het linkadres te kopiëren. Als je dit linkadres vervolgens plakt in een internetbrowser kun je het PDF-bestand zien 📄📲.
+Als je een PDF-bestand niet kunt openen via de app zelf, kan je de link ingedrukt houden om het linkadres te kopiëren. Als je dit linkadres vervolgens plakt in een internetbrowser (bijv. Chrome of Firefox) kun je het PDF-bestand zien 📄📲.
 
 # Kan ik de app op meerdere apparaten gebruiken?
 Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet of smartphone van je partner, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en taken worden automatisch gesynchroniseerd ✅.
