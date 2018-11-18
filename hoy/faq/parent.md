@@ -1,3 +1,18 @@
+# Hoe contacteer ik de school?
+De school contacteren kan op verschillende manieren:
+
+### Via hoy
+Ga naar het 'Berichten' tabblad, en klik op het icoon rechtsboven. Je kunt vervolgens kiezen of je de mentor van je kind of de schooladministratie een bericht wil sturen.
+
+### Andere manieren
+De school is ook telefonisch bereikbaar: [{{admin.phone}}](tel:{{admin.phone}}), en per email: [{{admin.email}}](mailto:{{admin.email}}).
+
+Dit is het adres van de school:
+
+{{admin.name}}<br />
+{{admin.street}}<br />
+{{admin.postcode}} {{admin.city}}
+
 # Wat is de hoy app?
 Hoy is de app voor communicatie tussen jou als ouder/verzorger en de school. Via deze app blijf je up-to-date van al het nieuws in en rondom school 📲.
 
