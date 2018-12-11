@@ -47,6 +47,9 @@ De hoy app is gekoppeld met jullie schooladministratie 📑 (Magister of Somtoda
 
 Leerlingen (en daarmee hun ouders) die niet meer op actief staan, worden automatisch uit de hoy app verwijderd.
 
+# Een medewerker staat niet met de juiste functie weergeven.
+Dat betekent waarschijnlijk dat de medewerker in de schooladministratie (Magister of Somtoday) twee functies heeft. Alleen de eerste functie van een medewerker wordt uit de schooladministratie overgenomen in hoy. Dit kan in Magister of Somtoday worden aangepast ✅. 
+
 # Hoe wordt de privacy gewaarborgd?
 We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de gegevens die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
 
