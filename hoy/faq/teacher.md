@@ -54,6 +54,14 @@ Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerli
 
 Acties die je uitstuurt komen altijd bij beide contacten aan en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
 
+# [Rooster] Kan ik mijn rooster in de app checken?
+De school kiest ervoor om de app te koppelen met de roosteromgeving, waarna we jouw lesrooster in de app tonen 🗓.
+
+Zie je het rooster niet? Dan heeft de school ervoor gekozen dit niet te doen.
+
+# [Rooster] Kan ik ook mijn roosterwijzigingen zien?
+Je rooster in de app is altijd up to date. We werken momenteel hard om de wijzigingen zo overzichtelijk mogelijk voor je op een rijtje te zetten 🗓.
+
 # [Berichtgeving] Hoe werkt het "snoozen" van notificaties?
 Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijden je geen notificaties wil ontvangen. Wij snappen ook dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. 
 
