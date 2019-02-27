@@ -7,7 +7,7 @@ Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tab
 # [Algemeen] Kan ik de app op meerdere apparaten gebruiken?
 Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en taken worden automatisch gesynchroniseerd ✅.
 
-# [Algemeen] Wat kunnen mijn ouders met de hoy app?
+# [Algemeen] Wat kunnen mijn ouders met de Hoy app?
 In ieder geval één van je ouders wordt door de school voor de app uitgenodigd 🙋‍♀️. Zij kunnen ook het nieuws volgen, communiceren met de mentor en school en daarnaast formulieren invullen en oudergesprekken inplannen.
 
 # [Algemeen] Hoe open ik een PDF-bestand?
