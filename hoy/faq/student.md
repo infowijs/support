@@ -2,10 +2,10 @@
 Hoy is een schoolbreed communicatiemiddel. Via deze app blijf je up-to-date van al het nieuws in en rondom school, kan je je vragen kwijt en ontvang je belangrijke berichten en formulieren van o.a. mentoren en de administratie 📲.
 
 # [Algemeen] Op welke apparaten kan ik de app installeren?
-Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en taken die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De taken zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
+Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en acties die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De acties zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
 
 # [Algemeen] Kan ik de app op meerdere apparaten gebruiken?
-Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en taken worden automatisch gesynchroniseerd ✅.
+Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en acties worden automatisch gesynchroniseerd ✅.
 
 # [Algemeen] Wat kunnen mijn ouders met de Hoy app?
 In ieder geval één van je ouders wordt door de school voor de app uitgenodigd 🙋‍♀️. Zij kunnen ook het nieuws volgen, communiceren met de mentor en school en daarnaast formulieren invullen en oudergesprekken inplannen.
@@ -16,8 +16,7 @@ Als je een PDF-bestand niet kunt openen via de app zelf, kan je de link ingedruk
 # [Inloggen] Hoe kan ik inloggen?
 We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inlogt op de app, bevestig je dat je toegang hebt tot dat e-mailadres: je vult het adres in en ontvangt direct een mail met een link waarop je moet klikken 🔗. Zo heb je één wachtwoord minder!
 
-# [Inloggen] De e-mails van Hoy komen in mijn spambox, wat nu?
-Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
+Heb je de e-mail om in te loggen niet gekregen? Kijk voor de zekerheid in je Ongewenst/Spam map.
 
 # [Inloggen] Ik kan via mijn smartphone/tablet niet bij mijn e-mail. Wat nu?
 Geen zorgen, je kan de e-mail ook op een ander device openen 😌. Zolang je de app op je smartphone/tablet open houdt, word je gewoon ingelogd als je op de link in de e-mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe e-mail gestuurd.
@@ -64,13 +63,16 @@ Zie je het rooster niet? Dan heeft de school ervoor gekozen dit niet te doen.
 # [Rooster] Kan ik ook mijn roosterwijzigingen zien?
 Je rooster in de app is altijd up to date. We werken momenteel hard om de wijzigingen zo overzichtelijk mogelijk voor je op een rijtje te zetten 🗓.
 
-# [Notificaties] Hoe werkt het "snoozen" van notificaties?
+# [Berichtgeving] Hoe werkt het "snoozen" van notificaties?
 Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijden je geen notificaties wil ontvangen. Wij snappen ook dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. 
 
 Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
-# [Notificaties] Waarom ontvang ik e-mails van bepaalde berichten en taken?
+# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en acties?
 Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je als ouder/verzorger niks mist 📬.
+
+# [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
+Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
 
 # [Profiel] Hoe wordt mijn privacy gewaarborgd?
 We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de gegevens die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
