@@ -55,14 +55,6 @@ Als een medewerker van de school een gesprek archiveert, kan je daar later niet 
 # [Communicatie] Hoe kan ik mijn antwoord op een actie wijzigen?
 Als je een formulier of afsprakenplanner hebt ingevuld, kan je deze zelf niet meer wijzigen. Wel kan je de verzender een bericht sturen om te vragen je reactie aan te passen. Dat kan snel door in de actie op het '...' icoontje rechtsboven te tikken en de optie 'Verzender contacteren' te kiezen.
 
-# [Rooster] Kan ik mijn rooster in de app checken?
-De school kiest ervoor om de app te koppelen met de roosteromgeving, waarna we jouw lesrooster in de app tonen 🗓.
-
-Zie je het rooster niet? Dan heeft de school ervoor gekozen dit niet te doen.
-
-# [Rooster] Kan ik ook mijn roosterwijzigingen zien?
-Je rooster in de app is altijd up to date. We werken momenteel hard om de wijzigingen zo overzichtelijk mogelijk voor je op een rijtje te zetten 🗓.
-
 # [Berichtgeving] Hoe werkt het "snoozen" van notificaties?
 Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijden je geen notificaties wil ontvangen. Wij snappen ook dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. 
 
