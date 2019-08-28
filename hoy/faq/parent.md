@@ -60,6 +60,13 @@ Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruik
 # [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
 Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
 
+# [Berichtgeving] Ik ontvang geen notificaties, wat nu?
+Dit kan aan een aantal zaken liggen. Onder 'Notificaties' in de app kun je je notificaties testen. Helpt dat niet, check dan eerst de instellingen van je telefoon of tablet.
+
+🍎 Op iPhone/iPad: ga naar de Instellingen app, tik op Berichtgeving, tik op Hoy, en zorg dat 'Sta berichtgeving' toe ingeschakeld is, en dat meldingen weergegeven worden in het Berichtencentrum.
+
+🤖 Op Android: ga naar het onderdeel Meldingen in de Instellingen app, zoek Hoy, en zorg dat zowel 'Meldingen weergeven' als 'Berichten' ingeschakeld zijn.
+
 # [Profiel] Ik zie dat ik het secundaire contact voor de school ben, wat betekent dit?
 Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerling. De ouder/verzorger die in de schooladministratie staat geregistreerd als het eerste contact, is in de app het **primaire contact** voor de school en mentor. Dat betekent dat diegene altijd de berichten van de school en mentor ontvangt.
 
