@@ -54,14 +54,6 @@ Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerli
 
 Acties die je uitstuurt komen altijd bij beide contacten aan en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
 
-# [Rooster] Kan ik mijn rooster in de app checken?
-De school kiest ervoor om de app te koppelen met de roosteromgeving, waarna we jouw lesrooster in de app tonen 🗓.
-
-Zie je het rooster niet? Dan heeft de school ervoor gekozen dit niet te doen.
-
-# [Rooster] Kan ik ook mijn roosterwijzigingen zien?
-Je rooster in de app is altijd up to date. We werken momenteel hard om de wijzigingen zo overzichtelijk mogelijk voor je op een rijtje te zetten 🗓.
-
 # [Berichtgeving] Hoe werkt het "snoozen" van notificaties?
 Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijden je geen notificaties wil ontvangen. Wij snappen ook dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. 
 
@@ -72,6 +64,13 @@ Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruik
 
 # [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
 Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
+
+# [Berichtgeving] Ik ontvang geen notificaties, wat nu?
+Dit kan aan een aantal zaken liggen. Onder 'Notificaties' in de app kun je je notificaties testen. Helpt dat niet, check dan eerst de instellingen van je telefoon of tablet.
+
+🍎 Op iPhone/iPad: ga naar de Instellingen app, tik op Berichtgeving, tik op Hoy, en zorg dat 'Sta berichtgeving' toe ingeschakeld is, en dat meldingen weergegeven worden in het Berichtencentrum.
+
+🤖 Op Android: ga naar het onderdeel Meldingen in de Instellingen app, zoek Hoy, en zorg dat zowel 'Meldingen weergeven' als 'Berichten' ingeschakeld zijn.
 
 # [Profiel] Hebben ouders en leerlingen toegang tot mijn telefoonnummer?
 De Hoy app geeft ouders en leerlingen geen toegang tot je telefoonnummer 📞. Ze zien alleen je account, en kunnen je benaderen door je een bericht te sturen in de app. Je account is automatisch gekoppeld aan de ouders en leerlingen van je mentorgroep(en) op basis van de schooladministratie.
