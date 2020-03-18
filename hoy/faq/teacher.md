@@ -54,13 +54,20 @@ Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerli
 
 Acties die je uitstuurt komen altijd bij beide contacten aan en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
 
+# [Berichtgeving] Ik ontvang een notificatie, maar zie het bericht niet terug in de app?
+Soms kan het zo zijn dat je wel een notificatie ontvangt van een bericht, maar dat je deze niet kan openen of niet terug ziet in de app. Wat nu? 🤨
+
+Je kan dan het beste de app even helemaal afsluiten en opnieuw openen. Ga naar Berichten, trek het scherm naar onder om de berichten te verversen en wacht even. Zie je het bericht nog steeds niet? Log dan uit via het slot-icoontje in het laatste tabje en log opnieuw in. Daarna zal de app al je berichten weer synchroniseren, dit kan eventjes duren.
+
+Onze excuses voor het ongemak, we proberen dit op te lossen voor de toekomst.
+
 # [Berichtgeving] Hoe werkt het "snoozen" van notificaties?
 Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijden je geen notificaties wil ontvangen. Wij snappen ook dat je in het weekend of ‘s avonds liever niet gestoord wil worden 😌. 
 
 Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
 # [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en acties?
-Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je niks mist 📬.
+Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je niks mist 📬. Ook als de school ervoor kiest een 'Belangrijk bericht' uit te sturen, ontvang je deze met pushnotificatie in de app én per e-mail.
 
 # [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
 Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
