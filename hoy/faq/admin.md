@@ -2,7 +2,7 @@
 Hoy is een schoolbreed communicatiemiddel. Via deze app blijven ouders/verzorgers, leerlingen en medewerkers up-to-date van al het nieuws in en rondom school, en ben je makkelijk in contact 📲.
 
 # [Algemeen] Bestaat er een handleiding voor Hoy?
-Naast de workshop die we geven om jullie op weg te helpen, hebben we ook de meeste gebruikte functies gebundeld in een stappenplan met een video's: https://hoyapp.nl/training-beheerders/.
+Naast de workshop die we geven om jullie op weg te helpen, hebben we ook de meeste gebruikte functies gebundeld in een stappenplan met een video's. Beheerders: https://hoyapp.nl/training-beheerders/. Docenten: https://hoyapp.nl/training-docenten/
 
 # [Algemeen] Op welke apparaten kunnen ouders, leerlingen en medewerkers de app installeren?
 De app kan worden geïnstalleerd op smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet).
