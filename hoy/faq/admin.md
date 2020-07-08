@@ -17,6 +17,11 @@ De Hoy app is gekoppeld met jullie schooladministratie 📑 (Magister of Somtoda
 
 Leerlingen (en daarmee hun ouders) die niet meer op actief staan, worden automatisch uit de Hoy omgeving verwijderd.
 
+# [Algemeen] Er missen gebruikers in het overzicht. Wat nu?
+Het kan zijn dat er iets in Magister of Somtoday verkeerd staat, waardoor een gebruiker niet wordt gesynchroniseerd. Loop deze checklist langs: https://hoy.app/checklist-gebruikers
+
+Kom je er toch niet uit? Neem dan contact met ons op via de 'Vragen' knop rechtsonder in het dashboard.
+
 # [Algemeen] Wat gebeurt er als een e-mailadres wordt aanpast in onze schooladministratie?
 Hier hebben we rekening mee gehouden 🙋‍♂️. Er verandert niets voor de gebruikers: ze blijven gewoon ingelogd in de app en de volgende keer dat ze willen inloggen (bijv. op een ander apparaat), kunnen ze dat doen via hun nieuwe e-mailadres.
 
