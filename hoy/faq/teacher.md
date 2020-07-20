@@ -5,10 +5,10 @@ Hoy is een schoolbreed communicatiemiddel. Via deze app blijf je up-to-date van 
 We hebben een online training beschikbaar die een goed overzicht geeft van de mogelijkheden van de app. Middels stappenplannen met video's worden tevens de meest gebruikte functionaliteiten toegelicht: https://hoyapp.nl/training-docenten/.
 
 # [Algemeen] Op welke apparaten kan ik de app installeren?
-Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd, krijg je de berichten en acties die naar je worden verstuurd gewoon per e-mail ✉️.
+Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd, krijg je de berichten en formulieren die naar je worden verstuurd gewoon per e-mail ✉️.
 
 # [Algemeen] Kan ik de app op meerdere apparaten gebruiken?
-Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en acties worden automatisch gesynchroniseerd ✅.
+Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en formulieren worden automatisch gesynchroniseerd ✅.
 
 # [Algemeen] Hoe open ik een PDF-bestand?
 Als je een PDF-bestand niet kunt openen via de app zelf, kan je de link ingedrukt houden om het linkadres te kopiëren. Als je dit linkadres vervolgens plakt in een internetbrowser (bijv. Chrome of Firefox) kun je het PDF-bestand zien 📄📲.
@@ -31,7 +31,7 @@ Eventueel zijn er ook andere groepen ouders en leerlingen beschikbaar als ontvan
 
 Als je een ouder of leerling mist in de lijst ontvangers, is deze niet voor de app uitgenodigd. Waarschijnlijk is er dan geen e-mailadres bekend in de schooladministratie. Dit is simpel op te lossen door het e-mailadres toe te (laten) voegen in de schooladministratie. Hoy wordt elke nacht gesynchroniseerd, waarna deze ouder of leerling kan worden uitgenodigd 🙌.
 
-Personen die wel zijn uitgenodigd maar de app (nog) niet in gebruik hebben, ontvangen e-mails van je berichten en acties. De acties (formulieren of afspraakplanners) zijn ook door de ontvangers in te vullen via deze e-mails.
+Personen die wel zijn uitgenodigd maar de app (nog) niet in gebruik hebben, ontvangen e-mails van je berichten en formulieren. De formulieren (vragenlijsten of afspraakplanners) zijn ook door de ontvangers in te vullen via deze e-mails.
 
 Om een bericht te versturen via de app, ga je naar het derde tabblad (Inbox). Hier vind je rechtsboven een icoontje waarmee je een nieuw bericht aanmaakt 💬. 
 
@@ -45,7 +45,7 @@ In een Groepsgesprek kunnen de ontvangers wél op elkaar reageren. Ideaal als je
 # [Communicatie] Wat betekenen het grijze en blauwe vinkje bij een bericht?
 Een grijs vinkje onder een bericht betekent dat het is verstuurd. Als het vinkje blauw wordt, is het bericht gelezen. Andersom kunnen ouders en leerlingen niet zien of jij een bericht hebt gelezen.
 
-Sommige ouders en leerlingen hebben de app (nog) niet in gebruik en ontvangen e-mails van jouw berichten en acties. Als deze persoon het bericht via e-mail heeft gelezen, blijft het vinkje grijs. (Je kan zien of diegene de app in gebruik heeft of e-mails ontvangt, door op de blauwe balk met zijn/haar naam te tikken.)
+Sommige ouders en leerlingen hebben de app (nog) niet in gebruik en ontvangen e-mails van jouw berichten en formulieren. Als deze persoon het bericht via e-mail heeft gelezen, blijft het vinkje grijs. (Je kan zien of diegene de app in gebruik heeft of e-mails ontvangt, door op de blauwe balk met zijn/haar naam te tikken.)
 
 # [Communicatie] Hoe archiveer ik een bericht?
 Je archiveert een bericht door naar links te swipen in de inbox of door in het bericht op het 'archiveer'-icoontje rechtsboven te tikken 📥.
@@ -55,7 +55,7 @@ Als je een gesprek archiveert, kan een ouder of leerling daar later niet meer op
 # [Communicatie] Wat betekent het schuifje "Selecteer ook secundair contact"?
 Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerling 👪. De ouder/verzorger die in de schooladministratie staat geregistreerd als het eerste contact, is in de app het primaire contact voor die leerling. Dat betekent dat diegene altijd de berichten van de school en mentor ontvangt. Als er een tweede contact in de schooladministratie staat, kan je een bericht ook naar diegene sturen door dit schuifje aan te zetten.
 
-Acties die je uitstuurt komen altijd bij beide contacten aan en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
+Formulieren die je uitstuurt komen altijd bij beide contacten aan en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
 
 # [Berichtgeving] Ik ontvang een notificatie, maar zie het bericht niet terug in de app?
 Soms kan het zo zijn dat je wel een notificatie ontvangt van een bericht, maar dat je deze niet kan openen of niet terug ziet in de app. Wat nu? 🤨
@@ -69,7 +69,7 @@ Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijde
 
 Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
-# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en acties?
+# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en formulieren?
 Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je niks mist 📬. Ook als de school ervoor kiest een 'Belangrijk bericht' uit te sturen, ontvang je deze met pushnotificatie in de app én per e-mail.
 
 # [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
