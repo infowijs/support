@@ -2,10 +2,10 @@
 Hoy is een schoolbreed communicatiemiddel. Via deze app blijf je up-to-date van al het nieuws in en rondom school, kan je je vragen kwijt en ontvang je belangrijke berichten en formulieren van o.a. mentoren en de administratie 📲.
 
 # [Algemeen] Op welke apparaten kan ik de app installeren?
-Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en acties die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De acties zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
+Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en formulieren die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De formulieren zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
 
 # [Algemeen] Kan ik de app op meerdere apparaten gebruiken?
-Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet of smartphone van je partner, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en acties worden automatisch gesynchroniseerd ✅.
+Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet of smartphone van je partner, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en formulieren worden automatisch gesynchroniseerd ✅.
 
 # [Algemeen] Hoe open ik een PDF-bestand?
 Als je een PDF-bestand niet kunt openen via de app zelf, kan je de link ingedrukt houden om het linkadres te kopiëren. Als je dit linkadres vervolgens plakt in een internetbrowser (bijv. Chrome of Firefox) kun je het PDF-bestand zien 📄📲.
@@ -46,8 +46,8 @@ Je archiveert een bericht door naar links te swipen in de inbox of door in het b
 
 Als een medewerker van de school een gesprek archiveert, kan je daar later niet meer op reageren. Wil je alsnog een bericht sturen, dan moet je een nieuw gesprek beginnen.
 
-# [Communicatie] Hoe kan ik mijn antwoord op een actie wijzigen?
-Als je een formulier of afsprakenplanner hebt ingevuld, kan je deze zelf niet meer wijzigen. Wel kan je de verzender een bericht sturen om te vragen je reactie aan te passen. Dat kan snel door in de actie op het '...' icoontje rechtsboven te tikken en de optie 'Verzender contacteren' te kiezen.
+# [Communicatie] Hoe kan ik mijn antwoord op een formulier wijzigen?
+Als je een vragenlijst of afsprakenplanner hebt ingevuld, kan je deze zelf niet meer wijzigen. Wel kan je de verzender een bericht sturen om te vragen je reactie aan te passen. Dat kan snel door in het formulier op het '...' icoontje rechtsboven te tikken en de optie 'Verzender contacteren' te kiezen.
 
 # [Berichtgeving] Ik ontvang een notificatie, maar zie het bericht niet terug in de app?
 Soms kan het zo zijn dat je wel een notificatie ontvangt van een bericht, maar dat je deze niet kan openen of niet terug ziet in de app. Wat nu? 🤨
@@ -61,7 +61,7 @@ Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijde
 
 Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
-# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en acties?
+# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en formulieren?
 Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je als ouder/verzorger niks mist 📬. Ook als de school ervoor kiest een 'Belangrijk bericht' uit te sturen, ontvang je deze met pushnotificatie in de app én per e-mail.
 
 # [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
@@ -79,7 +79,7 @@ Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerli
 
 Het tweede contact in de schooladministratie, wordt in de app automatisch het **secundaire contact**. De school en mentoren sturen berichten meestal uit naar beide contacten, maar het kan voorkomen dat de school of mentor contact zoekt met één ouder/verzorger. In de app is dat automatisch het primaire contact, tenzij de school of mentor dat anders aangeeft.
 
-Acties komen altijd aan bij beide contacten en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
+Formulieren komen altijd aan bij beide contacten en kunnen maar één keer per leerling worden ingevuld, door een van beide contacten. Beide contacten kunnen ook terugzien wat er is ingevuld.
 
 Als je wil aanpassen wie van de ouders/verzorgers het primaire contact is, moet dit in schooladministratie worden geregistreerd 👪.
 
