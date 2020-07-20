@@ -2,10 +2,10 @@
 Hoy is een schoolbreed communicatiemiddel. Via deze app blijf je up-to-date van al het nieuws in en rondom school, kan je je vragen kwijt en ontvang je belangrijke berichten en formulieren van o.a. mentoren en de administratie 📲.
 
 # [Algemeen] Op welke apparaten kan ik de app installeren?
-Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en acties die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De acties zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
+Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en formulieren die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De formulieren zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
 
 # [Algemeen] Kan ik de app op meerdere apparaten gebruiken?
-Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en acties worden automatisch gesynchroniseerd ✅.
+Zeker! Als je de app ook op een ander apparaat wil installeren, bijv. op je tablet, dan kan je gewoon inloggen met hetzelfde e-mailadres. Alle notificaties komen op beide apparaten aan en de berichten en formulieren worden automatisch gesynchroniseerd ✅.
 
 # [Algemeen] Wat kunnen mijn ouders met de Hoy app?
 In ieder geval één van je ouders wordt door de school voor de app uitgenodigd 🙋‍♀️. Zij kunnen ook het nieuws volgen, communiceren met de mentor en school en daarnaast formulieren invullen en oudergesprekken inplannen.
@@ -52,8 +52,8 @@ Je archiveert een bericht door naar links te swipen in de inbox of door in het b
 
 Als een medewerker van de school een gesprek archiveert, kan je daar later niet meer op reageren. Wil je alsnog een bericht sturen, dan moet je een nieuw gesprek beginnen.
 
-# [Communicatie] Hoe kan ik mijn antwoord op een actie wijzigen?
-Als je een formulier of afsprakenplanner hebt ingevuld, kan je deze zelf niet meer wijzigen. Wel kan je de verzender een bericht sturen om te vragen je reactie aan te passen. Dat kan snel door in de actie op het '...' icoontje rechtsboven te tikken en de optie 'Verzender contacteren' te kiezen.
+# [Communicatie] Hoe kan ik mijn antwoord op een formulier wijzigen?
+Als je een formulier of afsprakenplanner hebt ingevuld, kan je deze zelf niet meer wijzigen. Wel kan je de verzender een bericht sturen om te vragen je reactie aan te passen. Dat kan snel door in het formulier op het '...' icoontje rechtsboven te tikken en de optie 'Verzender contacteren' te kiezen.
 
 # [Berichtgeving] Ik ontvang een notificatie, maar zie het bericht niet terug in de app?
 Soms kan het zo zijn dat je wel een notificatie ontvangt van een bericht, maar dat je deze niet kan openen of niet terug ziet in de app. Wat nu? 🤨
@@ -67,7 +67,7 @@ Via Notificaties (onder Instellingen) kan je aangeven op welke dagen en/of tijde
 
 Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen dan netjes de volgende ochtend pas aan 📲.
 
-# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en acties?
+# [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en formulieren?
 Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je als leerling niks mist 📬. Ook als de school ervoor kiest een 'Belangrijk bericht' uit te sturen, ontvang je deze met pushnotificatie in de app én per e-mail.
 
 # [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
