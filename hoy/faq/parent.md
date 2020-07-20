@@ -15,6 +15,11 @@ We koppelen je account aan je e-mailadres uit de schooladministratie. Als je inl
 
 Heb je de e-mail om in te loggen niet gekregen? Kijk voor de zekerheid in je Ongewenst/Spam map.
 
+# [Inloggen] Mijn e-mailadres wordt niet herkend. Wat nu?
+Je wordt voor de app uitgenodigd op het e-mailadres dat bekend is bij de schooladministratie. De uitnodiging voor de app ontvang je per e-mail. Heb je deze uitnodiging nog niet gehad? Dan kan je ook nog niet op de app inloggen. Vraag dan na bij de schooladministratie wanneer je deze uitnodiging ontvangt.
+
+Heb je de uitnodiging wel gehad, maar kan je nog steeds niet inloggen? Kijk voor de zekerheid of het e-mailadres goed is gespeld.
+
 # [Inloggen] Ik kan via mijn smartphone/tablet niet bij mijn e-mail. Wat nu?
 Geen zorgen, je kan de e-mail ook op een ander device openen 😌. Zolang je de app op je smartphone/tablet open houdt, word je gewoon ingelogd als je op de link in de e-mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe e-mail gestuurd.
 
