@@ -23,6 +23,9 @@ Heb je de uitnodiging wel gehad, maar kan je nog steeds niet inloggen? Kijk voor
 # [Inloggen] Ik kan via mijn smartphone/tablet niet bij mijn e-mail. Wat nu?
 Geen zorgen, je kan de e-mail ook op een ander device openen 😌. Zolang je de app op je smartphone/tablet open houdt, word je gewoon ingelogd als je op de link in de e-mail klikt. Vanaf welk device dan ook. Elke keer dat je probeert in te loggen, wordt er een nieuwe e-mail gestuurd.
 
+# [Inloggen] Nadat ik de link uit de mail heb geopend en terugga naar de app, zie ik weer het inlogscherm. Wat nu?
+Als je device automatisch teruggaat naar het startscherm (waar je je e-mailadres moet invullen), nadat je op de link uit de e-mail hebt geklikt, dan sluit je device de app jammer genoeg automatisch af zodra je deze verlaat om 'performance' redenen. Wat je dan het beste kan doen is de app open houden en de link in de mail op een ander device (bijv laptop) aanklikken.
+
 # [Inloggen] Hoe kan ik uitloggen?
 Onder het tabblad 'Instellingen' in de app, zie je rechtsboven een slotje 🔒. Als je daarop tikt word je uitgelogd.
 
