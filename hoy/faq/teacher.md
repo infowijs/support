@@ -1,7 +1,7 @@
-# [Algemeen] Wat is de Hoy app?
-Hoy is een schoolbreed communicatiemiddel. Via deze app blijf je up-to-date van al het nieuws in en rondom school, en ben je makkelijk in contact met ouders/verzorgers, leerlingen en collega's 📲.
+# [Algemeen] Wat is deze app?
+Deze app is bedoeld als schoolbreed communicatiemiddel. Via de app blijf je up-to-date van al het nieuws in en rondom school, kan je je vragen kwijt en ontvang je belangrijke berichten en formulieren van o.a. mentoren en de administratie 📲.
 
-# [Algemeen] Bestaat er een handleiding voor Hoy?
+# [Algemeen] Bestaat er een handleiding voor docenten?
 We hebben een online training beschikbaar die een goed overzicht geeft van de mogelijkheden van de app. Middels stappenplannen met video's worden tevens de meest gebruikte functionaliteiten toegelicht: https://hoyapp.nl/training-docenten/.
 
 # [Algemeen] Op welke apparaten kan ik de app installeren?
@@ -37,7 +37,7 @@ Als mentor kan je in de app in ieder geval contact opnemen met de ouders/verzorg
 
 Eventueel zijn er ook andere groepen ouders en leerlingen beschikbaar als ontvanger (bijv. als je decaan of leerlingcoördinator bent), als de school deze aan je heeft toegewezen. Datzelfde geldt als je geen mentor bent.
 
-Als je een ouder of leerling mist in de lijst ontvangers, is deze niet voor de app uitgenodigd. Waarschijnlijk is er dan geen e-mailadres bekend in de schooladministratie. Dit is simpel op te lossen door het e-mailadres toe te (laten) voegen in de schooladministratie. Hoy wordt elke nacht gesynchroniseerd, waarna deze ouder of leerling kan worden uitgenodigd 🙌.
+Als je een ouder of leerling mist in de lijst ontvangers, is deze niet voor de app uitgenodigd. Waarschijnlijk is er dan geen e-mailadres bekend in de schooladministratie. Dit is simpel op te lossen door het e-mailadres toe te (laten) voegen in de schooladministratie. De app wordt elke nacht gesynchroniseerd, waarna deze ouder of leerling kan worden uitgenodigd 🙌.
 
 Personen die wel zijn uitgenodigd maar de app (nog) niet in gebruik hebben, ontvangen e-mails van je berichten en formulieren. De formulieren (vragenlijsten of afspraakplanners) zijn ook door de ontvangers in te vullen via deze e-mails.
 
@@ -80,18 +80,18 @@ Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen d
 # [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en formulieren?
 Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je niks mist 📬. Ook als de school ervoor kiest een 'Belangrijk bericht' uit te sturen, ontvang je deze met pushnotificatie in de app én per e-mail.
 
-# [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
-Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
+# [Berichtgeving] De e-mails komen in mijn spambox, wat nu?
+Hoe vervelend het ook is, het komt wel eens voor dat de e-mails in de Ongewenst/Spam map terecht komen. Dit komt omdat er veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
 
 # [Berichtgeving] Ik ontvang geen notificaties, wat nu?
 Dit kan aan een aantal zaken liggen. Onder 'Notificaties' in de app kun je je notificaties testen. Helpt dat niet, check dan eerst de instellingen van je telefoon of tablet.
 
-🍎 Op iPhone/iPad: ga naar de Instellingen app, tik op Berichtgeving, tik op Hoy, en zorg dat 'Sta berichtgeving' toe ingeschakeld is, en dat meldingen weergegeven worden in het Berichtencentrum.
+🍎 Op iPhone/iPad: ga naar de Instellingen app, tik op Berichtgeving, tik op de app, en zorg dat 'Sta berichtgeving' toe ingeschakeld is, en dat meldingen weergegeven worden in het Berichtencentrum.
 
-🤖 Op Android: ga naar het onderdeel Meldingen in de Instellingen app, zoek Hoy, en zorg dat zowel 'Meldingen weergeven' als 'Berichten' ingeschakeld zijn.
+🤖 Op Android: ga naar het onderdeel Meldingen in de Instellingen app, zoek de app, en zorg dat zowel 'Meldingen weergeven' als 'Berichten' ingeschakeld zijn.
 
 # [Profiel] Hebben ouders en leerlingen toegang tot mijn telefoonnummer?
-De Hoy app geeft ouders en leerlingen geen toegang tot je telefoonnummer 📞. Ze zien alleen je account, en kunnen je benaderen door je een bericht te sturen in de app. Je account is automatisch gekoppeld aan de ouders en leerlingen van je mentorgroep(en) op basis van de schooladministratie.
+De app geeft ouders en leerlingen geen toegang tot je telefoonnummer 📞. Ze zien alleen je account, en kunnen je benaderen door je een bericht te sturen in de app. Je account is automatisch gekoppeld aan de ouders en leerlingen van je mentorgroep(en) op basis van de schooladministratie.
 
 # [Profiel] Hoe gaat de app om met mijn privacy?
 We onderschrijven het privacy convenant dat o.a. door de VO-raad, PO-raad en het ministerie van Onderwijs, Cultuur en Wetenschap is opgesteld. Dat betekent dat wij onder andere de daarin gestelde veiligheidsmaatregelen implementeren in overleg met de school 🔒. Derde partijen krijgen nooit toegang tot de persoonsgegevens en data die de school ons verstrekt, behalve als de school ons dit nadrukkelijk verzoekt.
