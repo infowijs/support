@@ -1,5 +1,5 @@
-# [Algemeen] Wat is de Hoy app?
-Hoy is een schoolbreed communicatiemiddel. Via deze app blijf je up-to-date van al het nieuws in en rondom school, kan je je vragen kwijt en ontvang je belangrijke berichten en formulieren van o.a. mentoren en de administratie 📲.
+# [Algemeen] Wat is deze app?
+Deze app is bedoeld als schoolbreed communicatiemiddel. Via de app blijf je up-to-date van al het nieuws in en rondom school, kan je je vragen kwijt en ontvang je belangrijke berichten en formulieren van o.a. mentoren en de administratie 📲.
 
 # [Algemeen] Op welke apparaten kan ik de app installeren?
 Je kan de app installeren op je smartphone (iPhone of Android-smartphone) of tablet (iPad of Android-tablet). Als je de app (nog) niet hebt geïnstalleerd,  krijg je de berichten en formulieren die door de school en mentor naar je worden verstuurd gewoon per e-mail ✉️. De formulieren zijn ook via e-mail in te vullen en komen bij de school/mentor aan in de app.
@@ -32,7 +32,7 @@ Onder het tabblad 'Instellingen' in de app, zie je rechtsboven een slotje 🔒. 
 # [Communicatie] Hoe contacteer ik de school?
 De school contacteren kan op verschillende manieren:
 
-**Via Hoy**
+**Via de app**
 Ga naar het 'Berichten' tabblad, en klik op het icoon rechtsboven. Je kunt vervolgens kiezen of je de mentor van je kind of de schooladministratie een bericht wil sturen.
 
 **Andere manieren**
@@ -72,15 +72,15 @@ Heb je ingevuld dat je de hele dag geen notificaties wil ontvangen? Deze komen d
 # [Berichtgeving] Waarom ontvang ik e-mails van bepaalde berichten en formulieren?
 Je krijgt automatisch een reminder als je de app al een tijdje niet hebt gebruikt of een bericht niet hebt gezien. Zo zorgen we ervoor dat je als ouder/verzorger niks mist 📬. Ook als de school ervoor kiest een 'Belangrijk bericht' uit te sturen, ontvang je deze met pushnotificatie in de app én per e-mail.
 
-# [Berichtgeving] De e-mails van Hoy komen in mijn spambox, wat nu?
-Hoe vervelend het ook is, het komt wel eens voor dat de e-mails van Hoy in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit Hoy veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
+# [Berichtgeving] De e-mails komen in mijn spambox, wat nu?
+Hoe vervelend het ook is, het komt wel eens voor dat de e-mails in de Ongewenst/Spam map terecht komen. Dit komt omdat er vanuit de app veel automatische e-mails worden verstuurd. Als je deze e-mails markeert als 'geen spam', voorkom je dat dit in de toekomst nog eens gebeurt.
 
 # [Berichtgeving] Ik ontvang geen notificaties, wat nu?
 Dit kan aan een aantal zaken liggen. Onder 'Notificaties' in de app kun je je notificaties testen. Helpt dat niet, check dan eerst de instellingen van je telefoon of tablet.
 
-🍎 Op iPhone/iPad: ga naar de Instellingen app, tik op Berichtgeving, tik op Hoy, en zorg dat 'Sta berichtgeving' toe ingeschakeld is, en dat meldingen weergegeven worden in het Berichtencentrum.
+🍎 Op iPhone/iPad: ga naar de Instellingen app, tik op Berichtgeving, tik op de app, en zorg dat 'Sta berichtgeving' toe ingeschakeld is, en dat meldingen weergegeven worden in het Berichtencentrum.
 
-🤖 Op Android: ga naar het onderdeel Meldingen in de Instellingen app, zoek Hoy, en zorg dat zowel 'Meldingen weergeven' als 'Berichten' ingeschakeld zijn.
+🤖 Op Android: ga naar het onderdeel Meldingen in de Instellingen app, zoek de app, en zorg dat zowel 'Meldingen weergeven' als 'Berichten' ingeschakeld zijn.
 
 # [Profiel] Ik zie dat ik het secundaire contact voor de school ben, wat betekent dit?
 Soms staan er twee ouders/verzorgers in de schooladministratie voor één leerling. De ouder/verzorger die in de schooladministratie staat geregistreerd als het eerste contact, is in de app het **primaire contact** voor de school en mentor. Dat betekent dat diegene altijd de berichten van de school en mentor ontvangt.
